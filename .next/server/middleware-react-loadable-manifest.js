@@ -1,1 +1,0 @@
-self.__REACT_LOADABLE_MANIFEST="{\"app/page.tsx -> @/components/interactive-svg-effect\":{\"id\":\"app/page.tsx -> @/components/interactive-svg-effect\",\"files\":[\"static/chunks/_app-pages-browser_components_interactive-svg-effect_tsx.js\"]}}"
